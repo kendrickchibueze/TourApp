@@ -13,9 +13,9 @@ Tour App
 
 This app displays an order form for coffee. Used in the Udacity Android for Beginners course. This is how the app would look like after build and running:
 
-<img width="280" height="500" alt="Screenshot 2022-02-08 at 7 31 06 PM" src="https://raw.githubusercontent.com/kendrickchibueze/-Modern-Node-on-AWS/423d8ceb7e78d2249a0d09f4b2bb5dbbe489f817/codebuild-images/Screenshot%20(297).png"><img width="227" height="420" alt="second_screenshot" src="https://github.com/kendrickchibueze/-Modern-Node-on-AWS/blob/main/Screenshot%20(298).png?raw=true"/>
-<img width="280" height="500" alt="third_screenshot" src="https://github.com/kendrickchibueze/-Modern-Node-on-AWS/blob/main/Screenshot%20(299).png?raw=true"/>
-<img width="280" height="500" alt="fourth screenshot" src="https://github.com/kendrickchibueze/-Modern-Node-on-AWS/blob/main/Screenshot%20(300).png?raw=true"/>
+<img width="300" height="500" alt="Screenshot 2022-02-08 at 7 31 06 PM" src="https://raw.githubusercontent.com/kendrickchibueze/-Modern-Node-on-AWS/423d8ceb7e78d2249a0d09f4b2bb5dbbe489f817/codebuild-images/Screenshot%20(297).png"><img width="300" height="500" alt="second_screenshot" src="https://github.com/kendrickchibueze/-Modern-Node-on-AWS/blob/main/Screenshot%20(298).png?raw=true"/>
+<img width="300" height="500" alt="third_screenshot" src="https://github.com/kendrickchibueze/-Modern-Node-on-AWS/blob/main/Screenshot%20(299).png?raw=true"/>
+<img width="300" height="500" alt="fourth screenshot" src="https://github.com/kendrickchibueze/-Modern-Node-on-AWS/blob/main/Screenshot%20(300).png?raw=true"/>
 
 Pre-requisites
 --------------
